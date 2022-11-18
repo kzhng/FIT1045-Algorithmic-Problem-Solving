@@ -1,0 +1,6 @@
+Location of the most walkable house: 42.449755, -123.328187
+Walkability Score: 5.315847211532855
+The closest school is 0.6055333221300785 km
+The closest fast food is 1.0371239069242966 km
+The closest post office is 0.395888284834936 km
+The closest hospital is 3.2773016976435434 km
